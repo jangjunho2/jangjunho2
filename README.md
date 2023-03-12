@@ -33,5 +33,6 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangjunho2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@somm)
+
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rldirwkd328)](https://solved.ac/profile/rldirwkd328)
 </div>
