@@ -31,12 +31,17 @@
  
   <br/>
   -->
-   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jangjunho2&show_icons=true&theme=tokyonight)
+  
+  <div>
+  <img src="https://github-readme-stats.vercel.app/api?username=jangjunho2&show_icons=true&theme=tokyonight" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangjunho2&layout=compact&theme=tokyonight" >
+</div>
 
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangjunho2&layout=compact&theme=tokyonight)
-   
+  
+
+    
 
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rldirwkd328)](https://solved.ac/profile/rldirwkd328)
-  
+
 
 </div>
