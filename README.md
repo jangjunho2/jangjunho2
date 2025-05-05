@@ -33,8 +33,8 @@
   -->
   
   <div>
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=jangjunho2&show_icons=true&theme=tokyonight" > -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangjunho2&layout=compact&theme=tokyonight" >
+  <img src="https://github-readme-stats.vercel.app/api?username=jangjunho2&show_icons=true&theme=tokyonight" >
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangjunho2&layout=compact&theme=tokyonight" > -->
 </div>
 
   
